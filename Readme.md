@@ -1,6 +1,6 @@
 # Django Media Processing API
 
-This project is a Django-based API that processes media files (PDFs and images) by extracting text and storing it in a structured database.
+Django-based API that efficiently processes two types of media files a PDF document and an image and stores the extracted data in a structured database. A working API that accepts PDF and image files, processes them, and stores extracted text and a properly structured and labeled database containing the extracted content.
 
 ## 🛠 Tech Stack
 - **Backend Framework**: Django & Django REST Framework
